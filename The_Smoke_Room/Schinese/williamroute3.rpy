@@ -12712,13 +12712,13 @@ translate Schinese williamroute3a_5734e860:
 translate Schinese williamroute3a_36a2aa1f:
 
     # wi "\"Oh for the love of...\""
-    wi "我的老天..."
+    wi "“我的老天...”"
 
 # game/williamroute3.rpy:4859
 translate Schinese williamroute3a_a91f3962:
 
     # "I walk in through the door to see what he’s fussing about."
-    "“我走进房间，看他在大惊小怪些什么。”"
+    "我走进房间，看他在大惊小怪些什么。"
 
 # game/williamroute3.rpy:4860
 translate Schinese williamroute3a_1bc0fc09:
@@ -15046,7 +15046,7 @@ translate Schinese williamroute3a_c09cd9b1:
 translate Schinese williamroute3a_9a06bc8e:
 
     # "The Greenes’ property is a lot bigger than I thought it would be, though I suppose it makes sense they’d have more room per how far away from down town they are."
-    "Greenes家的占地面积比我想象中要大得多，不过也不奇怪，毕竟这里属于镇上的边缘地带。"
+    "Greene家的占地面积比我想象中要大得多，不过也不奇怪，毕竟这里属于镇上的边缘地带。"
 
 # game/williamroute3.rpy:5699
 translate Schinese williamroute3a_40542c5a:
@@ -16612,7 +16612,7 @@ translate Schinese williamroute3a_e0b5ec21:
 translate Schinese williamroute3a_968decc0:
 
     # "What’s not so surprising is that it’s Marcy."
-    "果不其然，来着是Marcy。"
+    "果不其然，来者是Marcy。"
 
 # game/williamroute3.rpy:6108
 translate Schinese williamroute3a_2090a85a:
@@ -16894,7 +16894,7 @@ translate Schinese williamroute3a_79353ff2:
 translate Schinese williamroute3a_35291aaa:
 
     # ka "\"And now a banker’s turned up dead for sure?\""
-    ka "“还在还有一位银行家死了？”"
+    ka "“现在还有一位银行家死了？”"
 
 # game/williamroute3.rpy:6200
 translate Schinese williamroute3a_3d0ac758:
@@ -17464,7 +17464,7 @@ translate Schinese williamroute3a_0b230745:
 translate Schinese williamroute3a_6ef61b98:
 
     # "I hear the undergarments squelch as he pulls them down, sticking slightly to the skin."
-    "粘在皮肤上内衣被剥下，发出‘刷啦’的声响。"
+    "粘在皮肤上内衣被剥下，发出“刷啦”的声响。"
 
 # game/williamroute3.rpy:6431
 translate Schinese williamroute3a_81317a05:
@@ -20108,7 +20108,7 @@ translate Schinese williamroute3b_92859b51:
 translate Schinese williamroute3b_bc3ef9cc:
 
     # gr "\"They’d send the problems out the front gate of the village with nothing but the clothes on their backs and tell them ‘Good Luck’.\""
-    gr "“问题分子会被直接流放，全身上下除了衣物，就只有一句‘好运’。”"
+    gr "“问题份子会被直接流放，全身上下除了衣物，就只有一句‘好运’。”"
 
 # game/williamroute3.rpy:7325
 translate Schinese williamroute3b_53008f8e:
@@ -20222,7 +20222,7 @@ translate Schinese williamroute3b_64b415cc:
 translate Schinese williamroute3b_88af99be:
 
     # mu "\"I’m not hiding anything Will.\""
-    mu "”我没有隐瞒任何事啊，Will。”"
+    mu "“我没有隐瞒任何事啊，Will。”"
 
 # game/williamroute3.rpy:7363
 translate Schinese williamroute3b_812fafa4:
@@ -20768,7 +20768,7 @@ translate Schinese williamroute3b_9043aae7:
 translate Schinese williamroute3b_861cf8e2:
 
     # "I’m scared for my ex-wife because of the chewing gum you made her buy?"
-    "“你让我前妻买这种口香糖，所以我不放心？”"
+    "你让我前妻买这种口香糖，所以我不放心？"
 
 # game/williamroute3.rpy:7503
 translate Schinese williamroute3b_a154afc3:
@@ -21506,7 +21506,7 @@ translate Schinese williamroute3b_aaee12cd:
 translate Schinese williamroute3b_912516d2:
 
     # "It smells like lemon, huckleberries, earl grey and honey cakes."
-    "空气中飘着柠檬、越橘、伯爵茶和蜂蜜蛋糕的香味"
+    "空气中飘着柠檬、越橘、伯爵茶和蜂蜜蛋糕的香味。"
 
 # game/williamroute3.rpy:7707
 translate Schinese williamroute3b_a5ee1191:
@@ -21602,7 +21602,7 @@ translate Schinese williamroute3b_d3fe55aa:
 translate Schinese williamroute3b_fe738e39:
 
     # mrs "\"The real credit should go to our principled and fastidious staff.\""
-    mrs "“真正的功臣是那些有井井有条、一丝不苟的侍从们。”"
+    mrs "“真正的功臣是那些井井有条、一丝不苟的侍从们。”"
 
 # game/williamroute3.rpy:7739
 translate Schinese williamroute3b_d044702d:
@@ -25550,7 +25550,7 @@ translate Schinese postwillinvestigation3_72528856:
 translate Schinese postwillinvestigation3_1e60ea63:
 
     # "I don’t answer."
-    "我没有回答"
+    "我没有回答。"
 
 # game/williamroute3.rpy:9095
 translate Schinese postwillinvestigation3_705b13c4:
@@ -26000,7 +26000,7 @@ translate Schinese postwillinvestigation3_9f894d12:
 translate Schinese postwillinvestigation3_658cfb7d:
 
     # md "\"It’s because her temperature is increasing.\""
-    md "”因为她的体温很高。”"
+    md "“因为她的体温很高。”"
 
 # game/williamroute3.rpy:9257
 translate Schinese postwillinvestigation3_66391047:
@@ -26282,7 +26282,7 @@ translate Schinese postwillinvestigation3_95d39b3b:
 translate Schinese postwillinvestigation3_dcfa5f97:
 
     # "Me, Cynthia, Avery and Scarlet all nod and she draws the curtains over Marcy’s bed, leaving only the outline of her silhouette and the doctor’s."
-    "我、Cynthia、Avery和Scarle都点点头，她便拉上Marcy病床的帘子，只见她跟医生的剪影。"
+    "我、Cynthia、Avery和Scarlet都点点头，她便拉上Marcy病床的帘子，只见她跟医生的剪影。"
 
 # game/williamroute3.rpy:9404
 translate Schinese postwillinvestigation3_ad8892c9:
